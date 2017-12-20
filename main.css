@@ -31,13 +31,13 @@
     width: 100%;
 }
 
-h1 {
-    text-align: right;
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; 
 }
 
-h3{
-    text-align: right;
+.img {
+    border-radius: 50%;
 }
-
-
-
